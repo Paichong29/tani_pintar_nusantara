@@ -80,7 +80,7 @@
    git clone https://github.com/Paichong29/tani_pintar_nusantara
    cd tani_pintar_nusantara
    ```
-2. replace your api key gemini/ganti api key gemini
+2. replace your api key gemini/ganti api key gemini **`"lib\services\gemini_service.dart"`**
    ```bash
    static const String apiKey = 'replace_your_api_key_gemini_ganti_api_key_gemini';
    ```
