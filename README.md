@@ -80,11 +80,15 @@
    git clone https://github.com/Paichong29/tani_pintar_nusantara
    cd tani_pintar_nusantara
    ```
-2. Install dependencies / Instal dependensi:  
+2. replace your api key gemini
+   ```bash
+   static const String apiKey = 'replace_your_api_key_gemini_ganti_api_key_gemini';
+   ```
+3. Install dependencies / Instal dependensi:  
    ```bash
    flutter pub get
    ```
-3. Clean previous builds (optional) / Bersihkan build sebelumnya (opsional):  
+4. Clean previous builds (optional) / Bersihkan build sebelumnya (opsional):  
    ```bash
    flutter clean
    ```
