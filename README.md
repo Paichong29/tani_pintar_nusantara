@@ -77,7 +77,7 @@
 ### Setup / Pengaturan
 1. Clone the repository / Clone repositori:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Paichong29/tani_pintar_nusantara
    cd tani_pintar_nusantara
    ```
 2. Install dependencies / Instal dependensi:  
