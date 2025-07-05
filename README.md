@@ -153,13 +153,6 @@ flutter build apk --release
 
 ---
 
-## License / Lisensi
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE) untuk detail.
-
----
-
 ## Contact / Kontak
 
 For inquiries, feature requests, or support, please contact:  
@@ -169,7 +162,4 @@ Untuk pertanyaan, permintaan fitur, atau dukungan, silakan hubungi:
 - Email: contact.tapinara@profil-faisal.my.id  
 - GitHub: Paichong29  
 
----
 
-*This README was crafted by an expert full-stack developer to provide a comprehensive bilingual documentation for the Tani Pintar Nusantara project.*  
-*README ini dibuat oleh seorang full-stack developer expert untuk menyediakan dokumentasi bilingual yang komprehensif untuk proyek Tani Pintar Nusantara.*
