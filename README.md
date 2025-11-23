@@ -162,7 +162,7 @@ flutter build apk --release
 For inquiries, feature requests, or support, please contact:  
 Untuk pertanyaan, permintaan fitur, atau dukungan, silakan hubungi:
 
-- Name / Nama: Paichong29  
+- Name / Nama: Faisal Adi Pradana (Paichong29)  
 - Email: contact.tapinara@profil-faisal.my.id  
 - GitHub: Paichong29  
 
