@@ -163,7 +163,7 @@ For inquiries, feature requests, or support, please contact:
 Untuk pertanyaan, permintaan fitur, atau dukungan, silakan hubungi:
 
 - Name / Nama: Faisal Adi Pradana (Paichong29)  
-- Email: contact.tapinara@profil-faisal.my.id  
+- Email: contact.tapinara@lensartpro.xyz  
 - GitHub: Paichong29  
 
 
